@@ -1,6 +1,49 @@
-Name: Advaita Raghavan 
-Degree: BS
-Major: Computer Science and Linguistics
-Graduation Date: 2028
+Advaita Raghavan
+Boston, MA | (603)404-7267  |  srihariraghavan.a@northeastern.edu | LinkedIn | Github
+Availability: July - December 2026
+
+Education
+  Northeastern University, Boston, MA	       
+  Khoury College of Computer Sciences 		         
+  August 2024 - May 2028	   
+  Candidate for  Bachelor of Science in Computer Science and Linguistics 
+  Honors: 		        GPA 3.98/4.00 | Dean’s List 
+  Relevant Courses: 	Natural Language Processing; Algorithms and Data; Program
+                    Design and Implementation II (Object Oriented Design); Semantics
+
+Skills 
+  Coding Languages:	  Java | Python | Racket | HTML | CSS | JavaScript 
+  Software:		  IntelliJ | Eclipse | Cursor | VSCode  
+  Tools: 		  Git | Node.js | MySQL | Pandas | Numpy
+
+Experience 
+ Khoury College of Computer Science				                      		    Boston, MA
+ TA for Program Implementation and Design II				                    January 2026 - Present       
+  - Grading assignments and holding office hours weekly to support a class of 450 students with homework assignments.
+  - Facilitating weekly labs of 36 students, helping students with troubleshooting and debugging programs. 
+
+Kyyba Tech Inc. 									                                       Chennai, India
+Software Development Intern 	                                           July 2025 - August 2025	
+  - Developed React native app with document upload and processing capabilities, after researching and developing specifications, considering all stakeholders. 
+  - Delivered working proof of concept to supervisor and project lead with some elements being incorporated into final product for client
+
+Projects
+  Sanguine Game 			                 	                                   December 2025
+  Developer
+  - Created a 2-player board game and implemented two computer player strategies from given specifications in Java using JFrame for UI
+  - Implemented design patterns like the listener pattern to prevent rigidity and ensure seamless communication between components of the MVC architecture
+  - Implemented full git workflow and practiced pair programming and effective communication of ideas.
+
+
+  RFP Management AI Tool                                                   August 2025
+  Developer.
+  - Developed full-stack solution with React/Express.js frontend, Python backend agents using Pydantic, AWS S3 storage, and RAG implementation for semantic search of historical procurement data.
+  - Implemented scalable document processing pipeline using Python Unstructured library, vector embeddings, and Node.js-Python bridge to enable intelligent vendor scoring based on past performance      patterns
+  - Experimented with AI programming assistants in Cursor and Windsurf to evaluate effectiveness of code.
+
+Activities and Interests
+  Activities: Section Editor (Artistry Magazine) | CS Curricula Team Member (FirstByte); 
+  Interests: Hindustani Music | Movies | Travel | Poetry 
+
 
 
